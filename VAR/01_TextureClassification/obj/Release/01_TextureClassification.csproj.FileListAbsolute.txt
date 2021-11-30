@@ -1,0 +1,11 @@
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\bin\Release\03_TextureClassification.exe.config
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\bin\Release\03_TextureClassification.exe
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\bin\Release\03_TextureClassification.pdb
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\01_TextureClassification\obj\Release\01_TextureClassification.csprojAssemblyReference.cache
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\01_TextureClassification\obj\Release\_01_TextureClassification.Form1.resources
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\01_TextureClassification\obj\Release\_03_TextureClassification.Properties.Resources.resources
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\01_TextureClassification\obj\Release\01_TextureClassification.csproj.GenerateResource.cache
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\01_TextureClassification\obj\Release\01_TextureClassification.csproj.CoreCompileInputs.cache
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\01_TextureClassification\obj\Release\01_TextureClassification.csproj.CopyComplete
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\01_TextureClassification\obj\Release\03_TextureClassification.exe
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\01_TextureClassification\obj\Release\03_TextureClassification.pdb

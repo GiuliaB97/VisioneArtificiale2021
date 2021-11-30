@@ -1,0 +1,10 @@
+C:\Users\giuliabrugnatti\source\repos\VAR\00-Brightness\bin\Debug\00-Brightness.exe.config
+C:\Users\giuliabrugnatti\source\repos\VAR\00-Brightness\bin\Debug\00-Brightness.exe
+C:\Users\giuliabrugnatti\source\repos\VAR\00-Brightness\bin\Debug\00-Brightness.pdb
+C:\Users\giuliabrugnatti\source\repos\VAR\00-Brightness\bin\Debug\Emgu.CV.UI.dll
+C:\Users\giuliabrugnatti\source\repos\VAR\00-Brightness\bin\Debug\Emgu.CV.World.dll
+C:\Users\giuliabrugnatti\source\repos\VAR\00-Brightness\obj\Debug\00-Brightness.csproj.AssemblyReference.cache
+C:\Users\giuliabrugnatti\source\repos\VAR\00-Brightness\obj\Debug\00-Brightness.csproj.CoreCompileInputs.cache
+C:\Users\giuliabrugnatti\source\repos\VAR\00-Brightness\obj\Debug\00-Brightness.csproj.CopyComplete
+C:\Users\giuliabrugnatti\source\repos\VAR\00-Brightness\obj\Debug\00-Brightness.exe
+C:\Users\giuliabrugnatti\source\repos\VAR\00-Brightness\obj\Debug\00-Brightness.pdb

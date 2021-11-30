@@ -1,0 +1,11 @@
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\bin\Debug\06_CBIRSystem.exe.config
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\bin\Debug\06_CBIRSystem.exe
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\bin\Debug\06_CBIRSystem.pdb
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\06_CBIRSystem\obj\Debug\02_CBIRSystem.csprojAssemblyReference.cache
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\06_CBIRSystem\obj\Debug\_02_CBIRSystem.Form1.resources
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\06_CBIRSystem\obj\Debug\_06_CBIRSystem.Properties.Resources.resources
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\06_CBIRSystem\obj\Debug\02_CBIRSystem.csproj.GenerateResource.cache
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\06_CBIRSystem\obj\Debug\02_CBIRSystem.csproj.CoreCompileInputs.cache
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\06_CBIRSystem\obj\Debug\02_CBIRSystem.csproj.CopyComplete
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\06_CBIRSystem\obj\Debug\06_CBIRSystem.exe
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2019\Esercitazioni\Code\Esercitazioni2019_Student\06_CBIRSystem\obj\Debug\06_CBIRSystem.pdb

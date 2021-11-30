@@ -1,0 +1,11 @@
+C:\Users\giuliabrugnatti\Desktop\03_HarrisCornerDetection\bin\Debug\05_HarrisCornerDetection.exe.config
+C:\Users\giuliabrugnatti\Desktop\03_HarrisCornerDetection\bin\Debug\05_HarrisCornerDetection.exe
+C:\Users\giuliabrugnatti\Desktop\03_HarrisCornerDetection\bin\Debug\05_HarrisCornerDetection.pdb
+C:\Users\giuliabrugnatti\Desktop\03_HarrisCornerDetection\03_HarrisCornerDetection\obj\Debug\03_HarrisCornerDetection.csproj.AssemblyReference.cache
+C:\Users\giuliabrugnatti\Desktop\03_HarrisCornerDetection\03_HarrisCornerDetection\obj\Debug\_03_HarrisCornerDetection.Form1.resources
+C:\Users\giuliabrugnatti\Desktop\03_HarrisCornerDetection\03_HarrisCornerDetection\obj\Debug\_05_HarrisCornerDetection.Properties.Resources.resources
+C:\Users\giuliabrugnatti\Desktop\03_HarrisCornerDetection\03_HarrisCornerDetection\obj\Debug\03_HarrisCornerDetection.csproj.GenerateResource.cache
+C:\Users\giuliabrugnatti\Desktop\03_HarrisCornerDetection\03_HarrisCornerDetection\obj\Debug\03_HarrisCornerDetection.csproj.CoreCompileInputs.cache
+C:\Users\giuliabrugnatti\Desktop\03_HarrisCornerDetection\03_HarrisCornerDetection\obj\Debug\03_HarrisCornerDetection.csproj.CopyComplete
+C:\Users\giuliabrugnatti\Desktop\03_HarrisCornerDetection\03_HarrisCornerDetection\obj\Debug\05_HarrisCornerDetection.exe
+C:\Users\giuliabrugnatti\Desktop\03_HarrisCornerDetection\03_HarrisCornerDetection\obj\Debug\05_HarrisCornerDetection.pdb

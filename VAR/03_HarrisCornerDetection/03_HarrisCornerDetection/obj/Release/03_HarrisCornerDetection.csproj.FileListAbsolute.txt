@@ -1,0 +1,11 @@
+C:\Users\Annalisa\Documents\Università\Didattica\V&R\V&R_2020\Esercitazioni\Code\Esercitazioni2019\bin\Release\05_HarrisCornerDetection.exe.config
+C:\Users\Annalisa\Documents\Università\Didattica\V&R\V&R_2020\Esercitazioni\Code\Esercitazioni2019\bin\Release\05_HarrisCornerDetection.exe
+C:\Users\Annalisa\Documents\Università\Didattica\V&R\V&R_2020\Esercitazioni\Code\Esercitazioni2019\bin\Release\05_HarrisCornerDetection.pdb
+C:\Users\Annalisa\Documents\Università\Didattica\V&R\V&R_2020\Esercitazioni\Code\Esercitazioni2019\03_HarrisCornerDetection\obj\Release\03_HarrisCornerDetection.csprojAssemblyReference.cache
+C:\Users\Annalisa\Documents\Università\Didattica\V&R\V&R_2020\Esercitazioni\Code\Esercitazioni2019\03_HarrisCornerDetection\obj\Release\_03_HarrisCornerDetection.Form1.resources
+C:\Users\Annalisa\Documents\Università\Didattica\V&R\V&R_2020\Esercitazioni\Code\Esercitazioni2019\03_HarrisCornerDetection\obj\Release\_05_HarrisCornerDetection.Properties.Resources.resources
+C:\Users\Annalisa\Documents\Università\Didattica\V&R\V&R_2020\Esercitazioni\Code\Esercitazioni2019\03_HarrisCornerDetection\obj\Release\03_HarrisCornerDetection.csproj.GenerateResource.cache
+C:\Users\Annalisa\Documents\Università\Didattica\V&R\V&R_2020\Esercitazioni\Code\Esercitazioni2019\03_HarrisCornerDetection\obj\Release\03_HarrisCornerDetection.csproj.CoreCompileInputs.cache
+C:\Users\Annalisa\Documents\Università\Didattica\V&R\V&R_2020\Esercitazioni\Code\Esercitazioni2019\03_HarrisCornerDetection\obj\Release\03_HarrisCornerDetection.csproj.CopyComplete
+C:\Users\Annalisa\Documents\Università\Didattica\V&R\V&R_2020\Esercitazioni\Code\Esercitazioni2019\03_HarrisCornerDetection\obj\Release\05_HarrisCornerDetection.exe
+C:\Users\Annalisa\Documents\Università\Didattica\V&R\V&R_2020\Esercitazioni\Code\Esercitazioni2019\03_HarrisCornerDetection\obj\Release\05_HarrisCornerDetection.pdb

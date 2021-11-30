@@ -1,0 +1,4 @@
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2020\Esercitazioni\05 - Grocery product detection-20201104\05_ObjectDetection\obj\Debug\05_ObjectDetection.csprojAssemblyReference.cache
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2020\Esercitazioni\05 - Grocery product detection-20201104\05_ObjectDetection\obj\Debug\_05_ObjectDetection.Form1.resources
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2020\Esercitazioni\05 - Grocery product detection-20201104\05_ObjectDetection\obj\Debug\_07_ObjectDetection.Properties.Resources.resources
+C:\Users\annalisa.franco3\Documents\Didattica\V&R\V&R_2020\Esercitazioni\05 - Grocery product detection-20201104\05_ObjectDetection\obj\Debug\05_ObjectDetection.csproj.GenerateResource.cache

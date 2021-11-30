@@ -1,0 +1,7 @@
+C:\Users\giuliabrugnatti\source\repos\VAR\VAR\bin\Debug\VAR.exe.config
+C:\Users\giuliabrugnatti\source\repos\VAR\VAR\bin\Debug\VAR.exe
+C:\Users\giuliabrugnatti\source\repos\VAR\VAR\bin\Debug\VAR.pdb
+C:\Users\giuliabrugnatti\source\repos\VAR\VAR\obj\Debug\VAR.csproj.AssemblyReference.cache
+C:\Users\giuliabrugnatti\source\repos\VAR\VAR\obj\Debug\VAR.csproj.CoreCompileInputs.cache
+C:\Users\giuliabrugnatti\source\repos\VAR\VAR\obj\Debug\VAR.exe
+C:\Users\giuliabrugnatti\source\repos\VAR\VAR\obj\Debug\VAR.pdb
